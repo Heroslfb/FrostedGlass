@@ -74,6 +74,13 @@
   --deprecated-text-input-border-disabled: #202225;
   --deprecated-text-input-prefix: #dcddde;
   --text-link: var(--link-colour);
+  
+  /* add more text colors */
+  --header-primary: var(--header-primary-colour);
+  --header-secondary: var(--header-secondary-colour);
+  --text-normal: var(--text-normal-colour);
+  --text-default: var(--text-default-colour);
+  --text-muted: var(--text-muted-colour);
 }
 
 #app-mount::before {
